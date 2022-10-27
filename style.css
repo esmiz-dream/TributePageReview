@@ -1,0 +1,23 @@
+img{
+max-width:100% ;
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+h1{
+    text-align: center;
+}
+div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+a{
+    margin-top: auto;
+}
+p{
+    margin-bottom: 0;
+    text-align: justify;
+}
